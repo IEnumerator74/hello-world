@@ -1,2 +1,3 @@
 # hello-world
-just trying
+This is an example project.
+Just start to learning about Github!
